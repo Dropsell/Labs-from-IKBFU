@@ -1,0 +1,13 @@
+c:\users\vshekhovtsov\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+c:\users\vshekhovtsov\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+c:\users\vshekhovtsov\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+c:\users\vshekhovtsov\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+c:\users\vshekhovtsov\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+c:\users\vshekhovtsov\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 6\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 6\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 6\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 6\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojAssemblyReference.cache
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 6\ConsoleApplication7\obj\Debug\ConsoleApplication7.csproj.CoreCompileInputs.cache
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 6\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 6\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb

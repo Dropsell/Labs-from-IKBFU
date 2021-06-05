@@ -1,0 +1,13 @@
+C:\Users\viksh\source\repos\Villi Wonka and Chocolate Factory\obj\Debug\netcoreapp3.1\Villi Wonka and Chocolate Factory.csprojAssemblyReference.cache
+C:\Users\viksh\source\repos\Villi Wonka and Chocolate Factory\obj\Debug\netcoreapp3.1\Villi Wonka and Chocolate Factory.AssemblyInfoInputs.cache
+C:\Users\viksh\source\repos\Villi Wonka and Chocolate Factory\obj\Debug\netcoreapp3.1\Villi Wonka and Chocolate Factory.AssemblyInfo.cs
+C:\Users\viksh\source\repos\Villi Wonka and Chocolate Factory\obj\Debug\netcoreapp3.1\Villi Wonka and Chocolate Factory.csproj.CoreCompileInputs.cache
+C:\Users\viksh\source\repos\Villi Wonka and Chocolate Factory\bin\Debug\netcoreapp3.1\Villi Wonka and Chocolate Factory.exe
+C:\Users\viksh\source\repos\Villi Wonka and Chocolate Factory\bin\Debug\netcoreapp3.1\Villi Wonka and Chocolate Factory.deps.json
+C:\Users\viksh\source\repos\Villi Wonka and Chocolate Factory\bin\Debug\netcoreapp3.1\Villi Wonka and Chocolate Factory.runtimeconfig.json
+C:\Users\viksh\source\repos\Villi Wonka and Chocolate Factory\bin\Debug\netcoreapp3.1\Villi Wonka and Chocolate Factory.runtimeconfig.dev.json
+C:\Users\viksh\source\repos\Villi Wonka and Chocolate Factory\bin\Debug\netcoreapp3.1\Villi Wonka and Chocolate Factory.dll
+C:\Users\viksh\source\repos\Villi Wonka and Chocolate Factory\bin\Debug\netcoreapp3.1\Villi Wonka and Chocolate Factory.pdb
+C:\Users\viksh\source\repos\Villi Wonka and Chocolate Factory\obj\Debug\netcoreapp3.1\Villi Wonka and Chocolate Factory.dll
+C:\Users\viksh\source\repos\Villi Wonka and Chocolate Factory\obj\Debug\netcoreapp3.1\Villi Wonka and Chocolate Factory.pdb
+C:\Users\viksh\source\repos\Villi Wonka and Chocolate Factory\obj\Debug\netcoreapp3.1\Villi Wonka and Chocolate Factory.genruntimeconfig.cache

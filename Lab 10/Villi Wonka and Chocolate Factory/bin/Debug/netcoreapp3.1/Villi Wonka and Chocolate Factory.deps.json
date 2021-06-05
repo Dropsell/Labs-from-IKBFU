@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Villi Wonka and Chocolate Factory/1.0.0": {
+        "runtime": {
+          "Villi Wonka and Chocolate Factory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Villi Wonka and Chocolate Factory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

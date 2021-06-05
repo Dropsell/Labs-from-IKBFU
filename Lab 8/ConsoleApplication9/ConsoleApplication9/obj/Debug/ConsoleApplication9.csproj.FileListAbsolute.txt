@@ -1,0 +1,13 @@
+c:\users\vshekhovtsov\documents\visual studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+c:\users\vshekhovtsov\documents\visual studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+c:\users\vshekhovtsov\documents\visual studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+c:\users\vshekhovtsov\documents\visual studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache
+c:\users\vshekhovtsov\documents\visual studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+c:\users\vshekhovtsov\documents\visual studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 8\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 8\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 8\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 8\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojAssemblyReference.cache
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 8\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csproj.CoreCompileInputs.cache
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 8\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 8\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb

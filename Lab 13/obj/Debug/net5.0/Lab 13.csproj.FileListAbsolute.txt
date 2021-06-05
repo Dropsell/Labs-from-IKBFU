@@ -1,0 +1,16 @@
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 13\bin\Debug\net5.0\Lab 13.exe
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 13\bin\Debug\net5.0\Lab 13.deps.json
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 13\bin\Debug\net5.0\Lab 13.runtimeconfig.json
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 13\bin\Debug\net5.0\Lab 13.runtimeconfig.dev.json
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 13\bin\Debug\net5.0\Lab 13.dll
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 13\bin\Debug\net5.0\ref\Lab 13.dll
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 13\bin\Debug\net5.0\Lab 13.pdb
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 13\obj\Debug\net5.0\Lab 13.csprojAssemblyReference.cache
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 13\obj\Debug\net5.0\Lab 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 13\obj\Debug\net5.0\Lab 13.AssemblyInfoInputs.cache
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 13\obj\Debug\net5.0\Lab 13.AssemblyInfo.cs
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 13\obj\Debug\net5.0\Lab 13.csproj.CoreCompileInputs.cache
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 13\obj\Debug\net5.0\Lab 13.dll
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 13\obj\Debug\net5.0\ref\Lab 13.dll
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 13\obj\Debug\net5.0\Lab 13.pdb
+C:\Users\viksh\OneDrive\Рабочий стол\For University\Computer Science\C#\Lab 13\obj\Debug\net5.0\Lab 13.genruntimeconfig.cache
